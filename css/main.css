@@ -771,7 +771,7 @@ html {
 html,
 body {
   height: 100%;
-  font-family: var(--font-family-sans-serif);
+  font-family: Microsoft Yahei;
   overflow-wrap: break-word;
 }
 body {
@@ -844,8 +844,8 @@ i.iconfont {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
-  --navbar-bg-color: #2f4154;
-  --navbar-text-color: #fff;
+  --navbar-bg-color: #bbec19;
+  --navbar-text-color: #761F45;
   --subtitle-color: #fff;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
@@ -869,8 +869,8 @@ i.iconfont {
     --link-hover-color: #30a9de;
     --link-hover-bg-color: #364151;
     --line-color: #435266;
-    --navbar-bg-color: #1f3144;
-    --navbar-text-color: #d0d0d0;
+    --navbar-bg-color: #acd522;
+    --navbar-text-color: #401427;
     --subtitle-color: #d0d0d0;
     --scrollbar-color: #687582;
     --scrollbar-hover-color: #9da8b3;
@@ -904,8 +904,8 @@ i.iconfont {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #364151;
   --line-color: #435266;
-  --navbar-bg-color: #1f3144;
-  --navbar-text-color: #d0d0d0;
+  --navbar-bg-color: #acd522;
+  --navbar-text-color: #401427;
   --subtitle-color: #d0d0d0;
   --scrollbar-color: #687582;
   --scrollbar-hover-color: #9da8b3;
@@ -1319,7 +1319,7 @@ figure.highlight td.code > pre {
 .markdown-body {
   font-size: 1rem;
   line-height: 1.6;
-  font-family: var(--font-family-sans-serif);
+  font-family: Microsoft Yahei;
   margin-bottom: 2rem;
   color: var(--post-text-color);
 }
